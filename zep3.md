@@ -1,0 +1,1 @@
+## touch下是个touch库，可以支持原生js，也可以支持zepto或者jquery，自己测了测，没啥bug、、、
